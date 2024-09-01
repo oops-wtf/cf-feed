@@ -15,7 +15,8 @@ Cakrawala Mini
 
 > This is the description of the feed.
 
-Cakrawala Indonesia versi mini
+Cakrawala Indonesia versi lite~
+Status: offline
 
 # searchTerms
 
